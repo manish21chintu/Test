@@ -4,6 +4,7 @@ public class MainMethod {
         MainMethod.sub(10,10);
         MainMethod.add1(10,10);;
         MainMethod.sub1(10,10);
+        
     }
     public static void add(int a,int b){
         System.out.println(a+b);
